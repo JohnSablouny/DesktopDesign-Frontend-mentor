@@ -1,0 +1,16 @@
+#div1{width: 500px;
+height: 350px;
+margin: 50px;
+border-radius: 10px;
+border: solid white 1px;
+background-color: white;}
+#img{float: left;}
+ body{background-color: hsl(30, 38%, 92%);}
+ #buton{background-color: hsl(158, 36%, 37%);}
+ #p1{text-align: left;font-weight: 500px;font-family: sans-serif; font-size: 10px; margin-left: 100px;}
+#sp1{padding: 50px; justify-content: center;}
+#p2{font-weight: 700px; font-size: 25px;}
+#p3{font-weight: 500px; font-family: sans-serif;}
+#p4{font-weight: 700px;color: hsl(158, 36%, 37%); font-size: 25px;}
+#p5{text-decoration: line-through; font-weight: 500px; font-size: 10px;}
+#buton{text-align: center; padding-top: 10px;padding-bottom: 10px;padding-left: 40px;padding-right: 40px;border-radius: 10px;justify-content: center;}
